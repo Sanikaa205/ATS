@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ats req.txt
 
 pip install flask
@@ -5,3 +6,12 @@ pip install spacy
 pip install scikit-learn
 pip install PyPDF2
 python -m spacy download en_core_web_lg
+=======
+flask
+spacy
+scikit-learn
+PyPDF2
+
+# After installing, run the following command to download the spaCy model:
+# python -m spacy download en_core_web_lg
+>>>>>>> fe4c12343ff6f9b879fd55e25471ba1e28256494
