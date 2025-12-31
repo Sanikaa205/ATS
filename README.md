@@ -41,17 +41,6 @@ python app.py
 
 The app will be available at [http://127.0.0.1:5000](http://127.0.0.1:5000).
 
-## Screenshots
-To add screenshots of your application:
-1. Take a screenshot and save it in the `templates/` folder (or another folder in your project).
-2. Reference the image below using the correct path:
-
-```markdown
-![Home Page](templates/home.png)
-```
-
-Replace `templates/home.png` with your actual screenshot filename and path.
-
 
 ## License
 [MIT](LICENSE)
